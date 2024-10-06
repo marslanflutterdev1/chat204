@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "none",
+    "editor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.autoIndent": "advanced",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "window.commandCenter": false
+}
